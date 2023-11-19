@@ -1,0 +1,45 @@
+.loginBody{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url('../Authenticate/login.jpg') no-repeat;
+}
+.signupBody {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url('../Authenticate/signup.jpg') no-repeat;
+}
+.container{
+    float: right;
+    justify-content: center;
+    align-items: center;
+    padding-left: 35%;
+}
+.card{
+    width: 45vw;
+    padding: 50px 0px;
+    text-align: center;
+}
+.yutoo {
+    font-size: larger;
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+Form{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+Form.Control{
+    margin: 10px;
+}
+
+.btns{
+    font-size: 18px;
+    padding: 10px;   
+}
